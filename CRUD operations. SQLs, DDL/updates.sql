@@ -1,6 +1,6 @@
 update users
-set name="Bruno"
-where id = 1;
+set name="Bruno",age=15
+where id = 7;
 
 update batteries
 set capacity_mAh= 0

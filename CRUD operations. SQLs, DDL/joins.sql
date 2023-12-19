@@ -24,4 +24,3 @@ SELECT u.name,ci.email FROM users u RIGHT JOIN contact_information ci ON u.id = 
 
 #full
 SELECT brand,model,name FROM phones FULL JOIN contacts;
-
